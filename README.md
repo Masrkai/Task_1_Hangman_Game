@@ -2,13 +2,6 @@
 - it was completed and left locally since July 2nd
 
 # Images
-
-! [Code](Images/Code.png "Code")
-<img src="Images/Code.png" alt="Alt text" width="2218" height="2346">
-
-
-
-
-! [Output](Images/Output.png "Run Example")
+- Example Output
 <img src="Images/Output.png" alt="Alt text" width="673" height="622">
 
